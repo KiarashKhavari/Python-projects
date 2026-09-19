@@ -1,0 +1,1 @@
+Hi! this is the first version of my file organizer. I'm going to add visuals and UI later and add category folders because this project only organizes in format. so if you want to try you can copy this python project.Have a nice day!
